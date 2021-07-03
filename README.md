@@ -1,1 +1,1 @@
-# goit-js-hw-09-gallery3
+# goit-js-hw-09-gallery1
